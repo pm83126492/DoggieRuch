@@ -1,0 +1,7 @@
+*.csproj
+*.csproj.user
+*.sln
+/obj
+/Library
+/Temp
+/SGUnity/Library
